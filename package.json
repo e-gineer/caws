@@ -1,0 +1,35 @@
+{
+  "name": "caws",
+  "description": "CoffeeScript based node.js client for Amazon Web Services (AWS) Simple Workflow Service (SWF).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nathan Wallace",
+    "email": "nathan@e-gineer.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/e-gineer/caws.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "keywords": [
+    "swf",
+    "aws",
+    "workflow",
+    "amazon"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "main": "./lib/caws",
+}
